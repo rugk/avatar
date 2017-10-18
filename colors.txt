@@ -1,0 +1,3 @@
+base, dark green: #5f7046 
+base, light green: #b0d972
+highlight, orange: #ff9840 / #ef984e
